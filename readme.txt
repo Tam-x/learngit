@@ -3,3 +3,5 @@ Git is free software.
 Toady is  25th April;
 Git is a distributed version control.
 Git is free software;
+
+Git is awesome！
