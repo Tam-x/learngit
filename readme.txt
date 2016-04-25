@@ -5,3 +5,4 @@ Git is a distributed version control.
 Git is free software;
 
 Git is awesome！
+Git add new line.
